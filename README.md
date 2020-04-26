@@ -8,4 +8,6 @@ Hi, my name is Ojas and you've found my Javascript repository. Here I have some 
 3. [HTML & CSS](https://github.com/BOLTZZ/HTML-CSS)
 
 4. [Javascript](https://github.com/BOLTZZ/Javascript)
+
+5. [R](https://github.com/BOLTZZ/R)
 # Table of Contents:
