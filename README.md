@@ -15,6 +15,6 @@ Hi, my name is Ojas and you've found my Javascript repository. Here I have some 
 # Table of Contents:
 | JavaScript
 | ---------
-| [How To Get Started Guide - Get started with JavaScript]()
-| [JavaScript Fundamentals - Learn the fundamentals of JavaScript]()
-| [JavaScript Projects - My projects made using JavaScript]()
+| [How To Get Started Guide - Get started with JavaScript](https://github.com/BOLTZZ/Javascript/blob/master/How%20To%20Get%20Started%20Guide.md)
+| [JavaScript Fundamentals - Learn the fundamentals of JavaScript](https://github.com/BOLTZZ/Javascript/tree/master/JavaScript%20Fundamentals)
+| [JavaScript Projects - My projects made using JavaScript](https://github.com/BOLTZZ/Javascript/tree/master/JavaScript%20Projects)
